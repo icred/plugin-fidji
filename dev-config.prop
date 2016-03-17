@@ -1,0 +1,1 @@
+registeredPlugins = de.irmnetwork.projects.icred.plugin.Plugin,eu.icred.plugin.Dummy,eu.icred.plugin.csv.Plugin,eu.icred.plugin.shell.Plugin,eu.icred.external.plugin.fidji.Plugin
